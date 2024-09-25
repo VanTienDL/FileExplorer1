@@ -1,0 +1,16 @@
+D:\Bai Tap UIT\FileExplorer1\FileExplorer1\bin\Debug\net8.0-windows\FileExplorer1.exe
+D:\Bai Tap UIT\FileExplorer1\FileExplorer1\bin\Debug\net8.0-windows\FileExplorer1.deps.json
+D:\Bai Tap UIT\FileExplorer1\FileExplorer1\bin\Debug\net8.0-windows\FileExplorer1.runtimeconfig.json
+D:\Bai Tap UIT\FileExplorer1\FileExplorer1\bin\Debug\net8.0-windows\FileExplorer1.dll
+D:\Bai Tap UIT\FileExplorer1\FileExplorer1\bin\Debug\net8.0-windows\FileExplorer1.pdb
+D:\Bai Tap UIT\FileExplorer1\FileExplorer1\obj\Debug\net8.0-windows\FileExplorer1.Form1.resources
+D:\Bai Tap UIT\FileExplorer1\FileExplorer1\obj\Debug\net8.0-windows\FileExplorer1.csproj.GenerateResource.cache
+D:\Bai Tap UIT\FileExplorer1\FileExplorer1\obj\Debug\net8.0-windows\FileExplorer1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bai Tap UIT\FileExplorer1\FileExplorer1\obj\Debug\net8.0-windows\FileExplorer1.AssemblyInfoInputs.cache
+D:\Bai Tap UIT\FileExplorer1\FileExplorer1\obj\Debug\net8.0-windows\FileExplorer1.AssemblyInfo.cs
+D:\Bai Tap UIT\FileExplorer1\FileExplorer1\obj\Debug\net8.0-windows\FileExplorer1.csproj.CoreCompileInputs.cache
+D:\Bai Tap UIT\FileExplorer1\FileExplorer1\obj\Debug\net8.0-windows\FileExplorer1.dll
+D:\Bai Tap UIT\FileExplorer1\FileExplorer1\obj\Debug\net8.0-windows\refint\FileExplorer1.dll
+D:\Bai Tap UIT\FileExplorer1\FileExplorer1\obj\Debug\net8.0-windows\FileExplorer1.pdb
+D:\Bai Tap UIT\FileExplorer1\FileExplorer1\obj\Debug\net8.0-windows\FileExplorer1.genruntimeconfig.cache
+D:\Bai Tap UIT\FileExplorer1\FileExplorer1\obj\Debug\net8.0-windows\ref\FileExplorer1.dll
